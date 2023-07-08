@@ -4,7 +4,7 @@ export function GrowthCycle() {
 
 return (
 
-<!--section-GrowthCycle-->
+//section-GrowthCycle
 <section class="container-lg d-flex border rounded mx-auto my-4">
     <div class="row mx-auto">
         <div class="col-lg-4 mx-auto p-3">

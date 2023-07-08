@@ -2,7 +2,7 @@
 
 export function Navigation() {
     return (
-<!--nav-->
+//nav
 <section className="sticky-top">
     <nav className="navbar">
         <p className="navbar-brand mx-1 my-auto">Grow Your Own Way</p>

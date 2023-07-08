@@ -3,7 +3,7 @@
 export function CannabisAnatomy() {
 
     return (
-        <!--section-CannabisAnatomy-->
+        //section-CannabisAnatomy
 
         <section class="container-lg d-flex border rounded mx-auto my-4">
             <div class="row mx-auto p-3">

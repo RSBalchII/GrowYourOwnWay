@@ -1,6 +1,6 @@
 
 
-<!--section-Image-Hovertext-->
+//section-Image-Hovertext
 <section id="WhyGrowYourOwn" class="container">
     <div class="row">
         <div class="col-lg-12">

@@ -2,7 +2,7 @@
 
 export function InitialStatement() {
     return (
-        <!--section-Initial-Statement-->
+        //Initial-Statement
         <section class="container-lg d-flex border  mx-auto my-4">
             <div>
                 <div class="mx-auto p-3">
