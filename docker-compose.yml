@@ -1,8 +1,6 @@
-version: '2'
+version: '3'
 services:
-  web:
+  frontend:
   build: 1.5.2
   ports:
     - "8000:5000"
-redis:
-  image: redis:alpine
