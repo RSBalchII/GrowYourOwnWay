@@ -5,7 +5,7 @@ import { GrowthCycle } from "../Shared/Components/GrowthCycle";
 import { Hygiene } from "../Shared/Components/Hygiene";
 import { InitialStatement } from "../Shared/Components/InitialStatement";
 import { TipsAndTricks } from "../Shared/Components/Tips&Tricks";
-import { WhyGrowYourOwnWay } from "../Shared/Components/whyGrowYourOwnWay";
+import { WhyGrowYourOwnWay } from "../Shared/Components/whyGrowYxourOwnWay";
 import {Navigation} from "../Shared/Components/Navigation";
 
 
