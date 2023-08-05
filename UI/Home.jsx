@@ -6,7 +6,7 @@ import { Hygiene } from "../Shared/Components/Hygiene";
 import { InitialStatement } from "../Shared/Components/InitialStatement";
 import { TipsAndTricks } from "../Shared/Components/Tips&Tricks";
 import { WhyGrowYourOwnWay } from "../Shared/Components/whyGrowYourOwnWay";
-import {Navigation} from "./Shared/Components/Navigation";
+import {Navigation} from "../Shared/Components/Navigation";
 
 
 export function Home() {
