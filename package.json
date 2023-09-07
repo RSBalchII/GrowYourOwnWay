@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "create-react-app": "^1.2.1",
+    "esbuild": "^0.19.2",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.13.0",

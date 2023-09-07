@@ -1,6 +1,0 @@
-version: '3'
-services:
-  frontend:
-  build: 1.5.2
-  ports:
-    - "8000:5000"
